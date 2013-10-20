@@ -1,0 +1,1 @@
+Exercice 6 fait par Charles Côté pour le cours SIO-2109: Introduction à la programmation
