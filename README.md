@@ -1,1 +1,1 @@
-Exercice 6 fait par Charles Côté pour le cours SIO-2109: Introduction à la programmation
+Exercice 6 fait par Charles Cï¿½tï¿½ pour le cours SIO-2109: Introduction ï¿½ la programmation   en collaboration avec Yan Bussiers
