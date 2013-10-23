@@ -1,0 +1,21 @@
+ex06
+
+8/10 -> 4/10
+presque identique
+en collaboration avec Yan Bussiers
+
+(-1)
+explication SVPL:
+Exercice 2
+Number of days: 2861
+Exercice 3
+Note finale: B-
+
+pas un bon nom (is ?; Class ?):
+isNameclass
+->
+isNameClass
+
+(-1)
+La fonction print peut être utilisé que dans ex_06.dart.
+
